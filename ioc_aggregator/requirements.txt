@@ -1,0 +1,7 @@
+requests
+pandas
+ipwhois
+python-whois
+
+
+
